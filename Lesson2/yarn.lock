@@ -2160,7 +2160,7 @@ mongodb@4.5.0:
 
 mongoose@^6.3.4:
   version "6.3.4"
-  resolved "https://registry.npmjs.org/mongoose/-/mongoose-6.3.4.tgz"
+  resolved "https://registry.yarnpkg.com/mongoose/-/mongoose-6.3.4.tgz#622f41c7380fba637f87006ebc46223753b3aac7"
   integrity sha512-UP0azyGMdY+2YNbJUHeHhnVw5vPzCqs4GQDUwHkilif/rwmSZktUQhQWMp1pUgRNeF2JC30vWGLrInZxD7K/Qw==
   dependencies:
     bson "^4.6.2"
