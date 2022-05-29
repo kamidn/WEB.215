@@ -14,9 +14,7 @@
     "webpack-node-externals": "^3.0.0"
   },
   "scripts": {
-    "development": "nodemon",
-    "build": "webpack --config webpack.config.client.production.js && webpack --mode=production --config webpack.config.server.js",
-    "start": "NODE_ENV=production node ./dist/server.generated.js"
+    "development": "nodemon"
   },
   "dependencies": {
     "express": "^4.18.1",
