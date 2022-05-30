@@ -1673,7 +1673,7 @@ execa@^5.0.0:
 
 express-jwt@^7.7.2:
   version "7.7.2"
-  resolved "https://registry.npmjs.org/express-jwt/-/express-jwt-7.7.2.tgz"
+  resolved "https://registry.yarnpkg.com/express-jwt/-/express-jwt-7.7.2.tgz#5f4bc1ec9c4d23dd77ba30974adeb463288f3ab6"
   integrity sha512-NTNciChI54hnfzOh0XNjfsF6zY4W6t1BE4MfrylYrdlzTipMFzCmUaI4ebUac7e4ZBpai5CwrID661o+TwYsRQ==
   dependencies:
     "@types/express-unless" "^0.5.3"
