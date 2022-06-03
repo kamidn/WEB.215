@@ -54,7 +54,6 @@ const requireSignin = () => expressJwt({
   userProperty: 'auth'
 })
 
-
 //Require Authorization
 const hasAuthorization = (req, res, next) => {
   const authorized = req.profile && req.auth && req.profile._id == req.auth._id
