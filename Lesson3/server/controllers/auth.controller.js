@@ -48,8 +48,8 @@ const requireSignin = jwt({
   userProperty: 'auth'
 })
 */
-//const requireSignin = () => expressJwt({
-const requireSignin = expressJwt({
+const requireSignin = () => expressJwt({
+//const requireSignin = expressJwt({
   secret: config.jwtSecret,
   userProperty: 'auth'
 })
